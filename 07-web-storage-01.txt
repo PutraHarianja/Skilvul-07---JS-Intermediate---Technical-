@@ -1,0 +1,12 @@
+1. Apa itu localStorage?
+-> dimana adanya penyimpanan data tanpa tanggal kadaluwarsa. Data tidak akan dihapus di browser ketika ditutup, dan akan tersedia untuk tahun tahun berikutnya. 
+
+2. Apa itu cookies?
+-> Merupakan data yang disimpan dalam suatu text files pada komputer kita. 
+Cookies dibuat untuk menyelesaikan problem "bagaimana server mengingat tentang si user" dimana saat koneksi ditutup server akan melupakan semua hal tentang user. 
+
+
+3. Apa perbedaan antara localStorage dan sessionStorage?
+->  data yang disimpan di localStorage bertahan sampai dihapus secara eksplisit. Perubahan yang dibuat disimpan dan tersedia untuk semua kunjungan saat ini dan masa depan ke situs.
+
+Untuk sesiStorage, perubahan hanya tersedia per tab. Perubahan yang dibuat disimpan dan tersedia untuk halaman saat ini di tab itu sampai ditutup. Setelah ditutup, data yang disimpan dihapus.
